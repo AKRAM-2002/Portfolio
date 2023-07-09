@@ -1,0 +1,20 @@
+import React from 'react'
+import Home from "./components/Home";
+import NavBar from "./components/NavBar";
+import About from './components/About';
+import Skills from './components/Skills';
+import Work from './components/Work';
+
+function App() {
+  return (
+    <div className="App">
+      <NavBar/>
+      <Home/>
+      <About/>
+      <Skills/>
+      <Work/>
+    </div>
+  );
+}
+
+export default App;
