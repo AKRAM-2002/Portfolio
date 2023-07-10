@@ -14,15 +14,15 @@ const Work = () => {
                 <div className='shadow-lg shadow-[040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects*/}
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
 
                         </span>
                         <div>
                             <a href="/">
-                                <button></button>
+                                <button>Demo</button>
                             </a>
                             <a href="/">
-                                <button></button>
+                                <button>Code</button>
                             </a>
                         </div>
                     </div>
