@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c44faa22.css",
-    "main.js": "/Portfolio/static/js/main.7dbce8ef.js",
+    "main.js": "/Portfolio/static/js/main.16ef641d.js",
+    "static/media/Akram-Boutzouga-Resume.pdf": "/Portfolio/static/media/Akram-Boutzouga-Resume.92cb7a57f19ca97dcac3.pdf",
     "static/media/python.png": "/Portfolio/static/media/python.d8b377f05522bf35de36.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/C.png": "/Portfolio/static/media/C.83dfa097dfa94f707a41.png",
@@ -12,10 +13,10 @@
     "static/media/firebase.png": "/Portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "index.html": "/Portfolio/index.html",
     "main.c44faa22.css.map": "/Portfolio/static/css/main.c44faa22.css.map",
-    "main.7dbce8ef.js.map": "/Portfolio/static/js/main.7dbce8ef.js.map"
+    "main.16ef641d.js.map": "/Portfolio/static/js/main.16ef641d.js.map"
   },
   "entrypoints": [
     "static/css/main.c44faa22.css",
-    "static/js/main.7dbce8ef.js"
+    "static/js/main.16ef641d.js"
   ]
 }
